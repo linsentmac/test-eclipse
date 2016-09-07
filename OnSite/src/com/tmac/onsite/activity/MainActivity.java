@@ -38,6 +38,7 @@ import android.widget.RadioGroup.OnCheckedChangeListener;
 
 public class MainActivity extends SlidingFragmentActivity{
 	
+	// add Tag
 	private static final String TAG = MainActivity.class.getSimpleName();
 	private ViewPager vp;
 	private List<Fragment> fragmentList;
