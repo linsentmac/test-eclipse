@@ -35,7 +35,7 @@ import android.view.View.OnClickListener;
 import android.widget.FrameLayout;
 import android.widget.RadioGroup;
 import android.widget.RadioGroup.OnCheckedChangeListener;
-// user: linsen
+
 public class MainActivity extends SlidingFragmentActivity{
 	
 	// add Tag
